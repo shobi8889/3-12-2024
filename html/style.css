@@ -1,0 +1,23 @@
+*
+{
+ margin:0;
+ padding: 0;   
+}
+
+.container
+{
+    margin:0;
+    width:100%;
+    min-height: 100vh;
+    background-image: linear-gradient(to right ,blue ,pink);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav
+{
+    background-color: white;
+    height:50px;
+    width:70%;
+    float:left;
+}
